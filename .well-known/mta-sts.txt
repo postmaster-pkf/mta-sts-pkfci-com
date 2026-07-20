@@ -1,4 +1,4 @@
-eversion: STSv1
+version: STSv1
 mode: enforce
 mx: pkfci-com.mail.protection.outlook.com
 max_age: 604800
